@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://D:/迅雷下载/mysql-connector-java-8.0.13">
+      <sourceFolder url="file://D:/迅雷下载/mysql-connector-java-8.0.13/src/main/protocol-impl/java" isTestSource="false" />
+      <sourceFolder url="file://D:/迅雷下载/mysql-connector-java-8.0.13/src/generated/java" isTestSource="false" />
+      <sourceFolder url="file://D:/迅雷下载/mysql-connector-java-8.0.13/src/main/core-impl/java" isTestSource="false" />
+      <sourceFolder url="file://D:/迅雷下载/mysql-connector-java-8.0.13/src/main/user-api/java" isTestSource="false" />
+      <sourceFolder url="file://D:/迅雷下载/mysql-connector-java-8.0.13/src/main/user-impl/java" isTestSource="false" />
+      <sourceFolder url="file://D:/迅雷下载/mysql-connector-java-8.0.13/src/build/java" isTestSource="false" />
+      <sourceFolder url="file://D:/迅雷下载/mysql-connector-java-8.0.13/src/demo/java" isTestSource="false" />
+      <sourceFolder url="file://D:/迅雷下载/mysql-connector-java-8.0.13/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://D:/迅雷下载/mysql-connector-java-8.0.13/src/legacy/java" isTestSource="false" />
+      <sourceFolder url="file://D:/迅雷下载/mysql-connector-java-8.0.13/src/main/core-api/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://F:/java框架jar包/struts-2.3.37/lib/javassist-3.11.0.GA.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://D:/迅雷下载/mysql-connector-java-8.0.13.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
